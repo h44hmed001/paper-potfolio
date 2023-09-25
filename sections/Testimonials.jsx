@@ -13,7 +13,7 @@ const Testimonials = () => {
           </h3>
           <div className="flex gap-2 items-center">
             <img
-              className="rounded-full w-[50px] h-[50px] "
+              className="rounded-full w-[30px] h-[30px] md:w-[50px] md:h-[50px] "
               src="https://uploads-ssl.webflow.com/5f2429f172d117fcee10e819/6172987a792f18104ce0ce14_sam-day.jpg"
             />
             <h1 className="font-[canopee] max-sm:text-[3.5vw] text-[2vw] lg:text-[1.6vw] ">
@@ -32,7 +32,7 @@ const Testimonials = () => {
           </h3>
           <div className="flex gap-2 items-center">
             <img
-              className="rounded-full object-cover w-[50px] h-[50px] "
+              className="rounded-full object-cover  w-[30px] h-[30px] md:w-[50px] md:h-[50px]  "
               src="https://uploads-ssl.webflow.com/5f2429f172d117fcee10e819/615b54ee54045a4769f04eba_sofia-papadopoulou.jpg"
             />
             <h1 className="font-[canopee] max-sm:text-[3.5vw] text-[2vw] lg:text-[1.6vw] ">
@@ -54,7 +54,7 @@ const Testimonials = () => {
           </h3>
           <div className="flex gap-2 items-center">
             <img
-              className="rounded-full object-cover w-[50px] h-[50px] "
+              className="rounded-full object-cover  w-[30px] h-[30px] md:w-[50px] md:h-[50px]  "
               src="https://uploads-ssl.webflow.com/5f2429f172d117fcee10e819/615b54ee0df682e04e089676_bruno-arizio.jpg"
             />
             <h1 className="font-[canopee] text-[2vw] lg:text-[1.6vw] ">
@@ -73,7 +73,7 @@ const Testimonials = () => {
           </h3>
           <div className="flex gap-2 items-center">
             <img
-              className="rounded-full object-cover w-[50px] h-[50px] "
+              className="rounded-full object-cover  w-[30px] h-[30px] md:w-[50px] md:h-[50px]  "
               src="https://uploads-ssl.webflow.com/5f2429f172d117fcee10e819/615b54ee9805af64275d2b44_enea-rossi.jpg"
             />
             <h1 className="font-[canopee] text-[2vw] lg:text-[1.6vw] ">
