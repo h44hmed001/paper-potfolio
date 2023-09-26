@@ -36,7 +36,8 @@ body {
   overflow-x: hidden;
 }
 .main {
-  background-color: #c4bcb3;
+  background-color: #eee7e0ea;
+  overflow-x: hidden;
 }
 .main-sm {
   background-color: #c4bcb3;

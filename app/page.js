@@ -48,7 +48,7 @@ export default function Home() {
       </section>
       <section className=" hidden md:flex items-center ">
         <div className="sm:mt-16  sm:mx-6 w-[70%] lg:w-[75%] md:mx-8 lg:mx-10">
-          <h1 className="font-[canopee] tracking-tight px-8 bg-[#1d1d1b] leading-none   text-center text-[#c4bcb3] text-[24vw] lg:text-[27vw] ">
+          <h1 className="font-[canopee] tracking-tight px-8 bg-[#1d1d1b] leading-none   text-center text-[#eee7e0ea] text-[24vw] lg:text-[27vw] ">
             WEBSITE
           </h1>
         </div>

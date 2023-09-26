@@ -2,7 +2,7 @@ import React from "react";
 
 const WorkButton = () => {
   return (
-    <div className="w-full mt-8 cursor-pointer  border items-center bg-[#d3cbc2] justify-center border-[#1d1d1b]  flex rounded-[50%] sm:h-[100px] h-[130px] xl:h-[200px]">
+    <div className="w-full mt-8 cursor-pointer  border items-center bg-[#eee7e0ea] justify-center border-[#1d1d1b]  flex rounded-[50%] sm:h-[100px] h-[130px] xl:h-[200px]">
       <div className="group flex h-full text-[#1d1d1b] w-full  overflow-hidden items-center justify-center ">
         <img
           className="-translate-x-[140%] group-hover:translate-x-[40%] transition-all ease-in-out duration-700 w-[40%] h-[40%] "
